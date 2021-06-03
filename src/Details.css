@@ -1,0 +1,17 @@
+.bor{
+    border: 2px solid;
+    border-radius: 25px;
+}
+.l{
+    margin-left: 80px;
+}
+input {
+    border: none;
+    background: transparent;
+}
+.c{
+    color: crimson;
+}
+.w{
+    width: 50px;
+}
